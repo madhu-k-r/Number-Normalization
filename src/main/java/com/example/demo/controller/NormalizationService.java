@@ -17,7 +17,7 @@ public class NormalizationService {
 
 	List<NumberModuler> number_data=new ArrayList<>(
 			Arrays.asList(
-					new NumberModuler("919876541230","91","9876541230","444","postpaid","Local Number"),("9876541230","91","9876541230","444","postpaid","International Number")
+					new NumberModuler("919876541230","91","9876541230","444","postpaid","Local Number")
 					));
 
 	private NumberModuler numberModuler;
