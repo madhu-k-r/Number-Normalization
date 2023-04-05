@@ -1,0 +1,13 @@
+2023-04-04 16:13:00 INFO  NormalizationService:57 - [Area = International Number, Country Code = 725, Original Number = 9741181]
+    2023-04-04 16:13:43 INFO  NormalizationService:43 - [Area = Local Number, Country Code = 91, Original Number = 7259741181]
+    2023-04-04 16:14:19 INFO  NormalizationService:25 - Data Fetched Successfully[NumberModuler [originalNumber=919876541230, countryCode=91, mobileNumber=9876541230, plan=444, pack=postpaid, area=Local Number]]
+    2023-04-04 16:14:58 INFO  NormalizationService:67 - Data Added NumberModuler [originalNumber=916547891230, countryCode=91, mobileNumber=6547891230, plan=888, pack=Prepaid, area=Local Number]
+    2023-04-04 16:15:10 INFO  NormalizationService:25 - Data Fetched Successfully[NumberModuler [originalNumber=919876541230, countryCode=91, mobileNumber=9876541230, plan=444, pack=postpaid, area=Local Number], NumberModuler [originalNumber=916547891230, countryCode=91, mobileNumber=6547891230, plan=888, pack=Prepaid, area=Local Number]]
+    2023-04-04 16:15:57 INFO  NormalizationService:80 - Data updated 1 NumberModuler [originalNumber=916547891230, countryCode=91, mobileNumber=6547891230, plan=777, pack=Prepaid, area=Local Number]
+    2023-04-04 16:16:07 INFO  NormalizationService:25 - Data Fetched Successfully[NumberModuler [originalNumber=919876541230, countryCode=91, mobileNumber=9876541230, plan=444, pack=postpaid, area=Local Number], NumberModuler [originalNumber=916547891230, countryCode=91, mobileNumber=6547891230, plan=777, pack=Prepaid, area=Local Number]]
+    2023-04-04 16:16:22 INFO  NormalizationService:87 - Data Removed NumberModuler [originalNumber=916547891230, countryCode=91, mobileNumber=6547891230, plan=777, pack=Prepaid, area=Local Number]
+    2023-04-04 16:16:30 INFO  NormalizationService:25 - Data Fetched Successfully[NumberModuler [originalNumber=919876541230, countryCode=91, mobileNumber=9876541230, plan=444, pack=postpaid, area=Local Number]]
+    2023-04-04 16:16:47 INFO  NormalizationService:62 - [Invalid Number 364567890]
+    2023-04-04 16:16:59 INFO  NormalizationService:57 - [Area = International Number, Country Code = 364, Original Number = 5678900]
+    2023-04-04 16:17:06 INFO  NormalizationService:43 - [Area = Local Number, Country Code = 91, Original Number = 3645678900]
+    
